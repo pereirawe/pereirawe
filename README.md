@@ -6,8 +6,8 @@
 </div> -->
 
 
-<h2>Olá, sou eu!</h2>
-<p>Sou um desenvolvedor web desde 2012. Estou acostumado a trabalhar no desenvolvimento de projetos com metodologias ágies. Atualmente sou Desenvolvedor Senior na Getrak, e sou webmaster de muitos projetos de emprendedores. Gosto de dar mentoria para devs e especialmente ensinar com exemplo. Manter o foco é minha prioridade, experiência, e muita capacidade para debugar são minhas ferramentas mais valiosas para combater bugs na mira nos projetos legados. Planejamento, organização honestidade e um gosto pela qualidade dos produtos me caraterizan nos projetos novos.
+<h2>Olá, sou William!</h2>
+<p>Sou desenvolvedor web desde 2012. Estou acostumado a trabalhar no desenvolvimento de projetos com metodologias ágies. Atualmente sou Desenvolvedor Senior na Getrak, e sou webmaster de muitos projetos de emprendedores. Gosto de dar mentoria para devs e especialmente ensinar com exemplo. Manter o foco é minha prioridade, experiência, e muita capacidade para debugar são minhas ferramentas mais valiosas para combater bugs na mira nos projetos legados. Planejamento, organização honestidade e um gosto pela qualidade dos produtos me caraterizan nos projetos novos.
 </p>
 
 <h2>Habilidades</h2>
