@@ -1,4 +1,4 @@
-# William Enrique Pereira Carrasquero
+<!-- # William Enrique Pereira Carrasquero -->
 
 <!-- ### Hi there 👋 -->
 <!-- <div align="center" style="display: inline_block; padding: 20px 0px 20px 0px;">
@@ -6,11 +6,11 @@
 </div> -->
 
 
-<h2>PERFIL PROFISSIONAL</h2>
-<p>Tenho experiência no design e desenvolvimento no Front e Backend para aplicativos e sites baseados em PHP Laravel, Yii, Angular, Vue, Sass e Bootstrap, sistemas para envio de notificações por email ou mensagens instantâneas, bots de Telegram, estações de transmissão de áudio on-line. Desenvolvimento de projetos com planejamento ágil e estruturas MVC e POO. Trabalho focado na experiência no estabelecimento, monitoramento e verificação de metas em equipes de trabalho sob minha responsabilidade, com altos padrões de comprometimento, responsabilidade, honestidade e qualidade.
-</p><br/>
+<h2>Olá, sou eu!</h2>
+<p>Sou um desenvolvedor web desde 2012. Estou acostumado a trabalhar no desenvolvimento de projetos com metodologias ágies. Atualmente sou Desenvolvedor Senior na Getrak, e sou webmaster de muitos projetos de emprendedores. Gosto de dar mentoria para devs e especialmente ensinar com exemplo. Manter o foco é minha prioridade, experiência, e muita capacidade para debugar são minhas ferramentas mais valiosas para combater bugs na mira nos projetos legados. Planejamento, organização honestidade e um gosto pela qualidade dos produtos me caraterizan nos projetos novos.
+</p>
 
-<h2>Skills</h2>
+<h2>Habilidades</h2>
 <div align="center" style="display: inline_block; background-color: white; padding: 20px 0px 20px 0px;">
 	<img align="center" alt="William-GIT" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="William-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,8 +40,7 @@
 	
 </div>
 
-### Fala Comigo | Contact me:
-
+<h2>Fala Comigo</h2>
 <div> 
   <!-- <a href="https://www.youtube.com/channel/UC5w7ndOUZ6oJTArN0WfCPrg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
@@ -54,6 +53,9 @@
   </a> -->
   <a href="https://www.linkedin.com/in/pereirawe/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+	<a href="https://api.whatsapp.com/send?phone=+5541987603488&text=%20" target="_blank">
+    <img src="https://img.shields.io/badge/-Whatsapp-%075E54?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a> 
  
   <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
