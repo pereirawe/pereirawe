@@ -7,7 +7,7 @@
 
 
 <h2>Olá, sou William!</h2>
-<p>Sou desenvolvedor web desde 2012. Estou acostumado a trabalhar no desenvolvimento de projetos com metodologias ágies. Atualmente sou Desenvolvedor Senior na Getrak, e sou webmaster de muitos projetos de emprendedores. Gosto de dar mentoria para devs e especialmente ensinar com exemplo. Manter o foco é minha prioridade, experiência, e muita capacidade para debugar são minhas ferramentas mais valiosas para combater bugs na mira nos projetos legados. Planejamento, organização honestidade e um gosto pela qualidade dos produtos me caraterizan nos projetos novos.
+<p>Desenvolvedor Full Stack com ampla experiência em liderança técnica e gestão de equipes ágeis. Minha trajetória é focada na criação, otimização e entrega de produtos de alto valor, unindo minha expertise técnica em diversas linguagens e paradigmas (PHP + Laravel, Vue + Nuxt, Python, Angular, Node, Golang, AWS) com a gestão de times de Desenvolvimento e BI. Atuo diretamente na definição de produto e roadmaps, garantindo a entrega de valor com foco em performance e qualidade. Sou especialista na implementação de metodologias ágeis e no desenvolvimento de equipes de alta performance.
 </p>
 
 <h2>Habilidades</h2>
