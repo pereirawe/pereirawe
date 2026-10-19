@@ -1,78 +1,66 @@
-<!-- # William Enrique Pereira Carrasquero -->
+# Hi, I'm William Pereira 👋
 
-<!-- ### Hi there 👋 -->
-<!-- <div align="center" style="display: inline_block; padding: 20px 0px 20px 0px;">
-<img align="center" alt="William-GIT" height="120" width="120" src="https://avatars.githubusercontent.com/pereirawe">
-</div> -->
+**Tech Lead · Senior Full Stack Developer · Founder & CEO at [Codetomika](https://www.codetomika.com/)**
 
+I build software, lead engineering teams, and turn complex business requirements into maintainable products. I bring **10+ years of experience** across B2B SaaS, healthcare, legal technology, fintech, and e-commerce, with hands-on AI work since 2022.
 
-<h2>Olá, sou William!</h2>
-<p>Desenvolvedor Full Stack com ampla experiência em liderança técnica e gestão de equipes ágeis. Minha trajetória é focada na criação, otimização e entrega de produtos de alto valor, unindo minha expertise técnica em diversas linguagens e paradigmas (PHP + Laravel, Vue + Nuxt, Python, Angular, Node, Golang, AWS) com a gestão de times de Desenvolvimento e BI. Atuo diretamente na definição de produto e roadmaps, garantindo a entrega de valor com foco em performance e qualidade. Sou especialista na implementação de metodologias ágeis e no desenvolvimento de equipes de alta performance.
-</p>
+Based in Curitiba, Brazil. **English: fluent · Portuguese & Spanish: native.**
 
-<h2>Habilidades</h2>
-<div align="center" style="display: inline_block; background-color: white; padding: 20px 0px 20px 0px;">
-	<img align="center" alt="William-GIT" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="William-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="William-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="William-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="William-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-	<img align="center" alt="William-NODE" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-	<img align="center" alt="William-LARAVEL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-	<img align="center" alt="William-YII" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain.svg">
-	</br>
-	</br>
-	<img align="center" alt="William-WORDPRESS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-	<img align="center" alt="William-LINUX" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-	<img align="center" alt="William-BASH" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
-	<img align="center" alt="William-DOCKER" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="William-TS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="William-REACT" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="William-SASS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-	<img align="center" alt="William-LESS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
-	<br>
-  </div><br/>
+[Email](mailto:pereirawe@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pereirawe/) · [WhatsApp](https://wa.me/5541987603488) · [Codetomika](https://www.codetomika.com/) · [Writing](https://medium.com/@pereirawe)
 
-<div align="center">
-  <a href="https://github.com/pereirawe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pereirawe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereirawe&layout=compact&langs_count=7&theme=dracula"/>
-	
-</div>
+## What I work on
 
-<h2>Fala Comigo</h2>
-<div> 
-  <!-- <a href="https://www.youtube.com/channel/UC5w7ndOUZ6oJTArN0WfCPrg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a> -->
-  <a href="https://www.instagram.com/pereirawe/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <!-- <a href = "mailto:gustavo.felixreal@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a> -->
-  <a href="https://www.linkedin.com/in/pereirawe/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-	<a href="https://api.whatsapp.com/send?phone=+5541987603488&text=%20" target="_blank">
-    <img src="https://img.shields.io/badge/-Whatsapp-%075E54?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a> 
- 
-  <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
- 
-</div>
+- **Product engineering:** full stack applications, REST APIs, microservices, payment integrations, and workflow automation.
+- **AI in production:** LLM integrations, document generation, transcription, and recommendation workflows using OpenAI and Anthropic APIs.
+- **AI-assisted delivery:** Spec-Driven Development, agent orchestration, context design, and AI-driven testing, backed by code review and explicit acceptance criteria.
+- **Engineering leadership:** architecture decisions, technical roadmaps, hiring, mentoring, sprint planning, and collaboration with product and business teams.
 
-<!--
-**pereirawe/pereirawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Selected work
 
-Here are some ideas to get you started:
+### [OpenCode Flow](https://github.com/pereirawe/opencode-flow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My language-agnostic workflow for AI-assisted software development: agents, standards, skills, and scripts that connect discovery, implementation, testing, review, and delivery. I put particular care into well-defined issues, business rules, and acceptance criteria before implementation starts.
+
+### [Codetomika](https://www.codetomika.com/)
+
+Founded in 2021. We build custom software for growing businesses, including web applications, APIs, e-commerce, and AI automation. Alongside delivery, I mentor developers and help teams improve their engineering practices.
+
+### B2B SaaS & business systems
+
+As Tech Lead at **Setup Tecnologia (January 2024–August 2026)**, I worked across development and BI squads:
+
+- **BestDoctors:** clinic management, scheduling, e-signature workflows, monitoring, and AI-assisted medical documentation.
+- **AdvEasy:** AI-assisted legal documents and an event-driven ranking system built with Laravel, PostgreSQL, Redis, queues, and TDD.
+- **Financial operations & BI:** payment gateway and CRM integrations, Go and Node.js microservices, and API-based data pipelines for automated Power BI refreshes.
+
+## Tools & technologies
+
+| Area | Technologies & practices |
+| --- | --- |
+| Backend | PHP, Laravel, Python, Node.js, REST APIs, microservices |
+| Frontend | JavaScript, TypeScript, Vue, Nuxt, Angular, React, HTML, CSS |
+| Data | PostgreSQL, MySQL, Redis, MongoDB, ETL, Power BI |
+| Cloud & delivery | AWS, Lambda, Docker, Linux, Git, GitLab CI/CD, Vercel |
+| AI workflow | Claude Code, OpenAI Codex, GitHub Copilot, Cursor, OpenCode, LLM APIs |
+| Engineering | Code review, TDD, Spec-Driven Development, Gitflow, Scrum, OKRs |
+
+My strongest foundations are **PHP/Laravel, JavaScript, Python, Node.js, SQL, Docker, and API design**. I also work with Go as part of my broader stack.
+
+## Leadership & impact
+
+- Hired and developed **16 professionals** across software engineering, BI, and product management.
+- Mentored **6 junior developers** into mid-level roles and helped **3 external development teams** adopt Scrum.
+- Combined hands-on development with architecture, delivery planning, one-to-ones, career development, and engineering budgets.
+
+## Writing
+
+I write about software engineering, practical AI, and technical leadership.
+
+- [Ockham's Razor for Developers: Less is Really More](https://medium.com/@pereirawe/ockhams-razor-for-developers-less-is-really-more-1c74efa8f228)
+- [In-Memory Showdown: Redis vs KeyDB](https://medium.com/@pereirawe/in-memory-showdown-redis-vs-keydb-eaecca99f956)
+
+## Let's connect
+
+Have a product to build, an integration to untangle, or an engineering challenge to discuss?
+
+Reach me at **[pereirawe@gmail.com](mailto:pereirawe@gmail.com)**, connect on **[LinkedIn](https://www.linkedin.com/in/pereirawe/)**, or say hello on **[WhatsApp](https://wa.me/5541987603488)**.
